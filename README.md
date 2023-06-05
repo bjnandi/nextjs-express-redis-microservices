@@ -41,5 +41,7 @@ git clone www.github.com/umarfchy/nextjs-express-redis-microservice-architecture
 cd nextjs-express-redis-microservice-architecture
 docker compose up
 ```
-
+```
+http://localhost:3000/
+```
 Thanks for reading!
